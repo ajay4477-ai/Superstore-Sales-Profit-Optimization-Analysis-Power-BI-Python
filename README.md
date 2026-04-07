@@ -53,3 +53,38 @@ It is designed to help business stakeholders make data-driven decisions by ident
 - DAX (Calculated Measures & KPIs)  
 - Python (Pandas, NumPy for Data Cleaning & Preprocessing)  
 - CSV Dataset   
+
+
+**Key Insights**
+  - High discounting is reducing overall profitability, especially in low-margin categories like Furniture.
+  - Furniture generates high sales but extremely low profit which is 3%.
+  - Technology has the highest profit margin which is 19%.
+  - Over one-third of orders are delayed.
+  - High customer lifetime value (CLV) but low purchase frequency which is 1.6 orders.
+  - Certain products and cities consistently generate losses.
+
+
+**Business Impact**
+  - Reducing unnecessary discounts can increase overall profit margin by 3–5% without affecting sales volume.
+  - Optimizing pricing and cost can convert a low-margin category into a significant profit contributo.
+  - Increasing focus on Technology can drive both revenue growth and higher profitability simultaneously.
+  - Improving delivery performance can increase customer satisfaction, retention, and repeat purchases.
+  - Increasing frequency even slightly 1.6 to 2.0 can significantly boost total revenue without new customer acquisition cost.
+  - Eliminating or fixing loss making products can directly improve net profit and reduce financial inefficiencies.
+
+
+**Dataset Information**
+- Dataset: Superstore Sales Dataset  
+- Source: Kaggle  
+
+**Data Files Created**
+The original dataset was processed and split into multiple structured files using Python:
+- `customers_df.csv` -> Customer-related information  
+- `sales_df.csv` -> Sales transactions and profit details  
+- `products_df.csv` -> Product categories and sub-categories  
+- `orders.csv` -> Order-level details (order date, ship mode, etc.)  
+
+**Data Processing**
+- Cleaned and transformed raw dataset using Python (Pandas)  
+- Split data into relational tables for better data modeling  
+- Prepared data for efficient analysis in Power BI  
