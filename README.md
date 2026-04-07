@@ -48,3 +48,8 @@ It is designed to help business stakeholders make data-driven decisions by ident
 ![img_alt](https://github.com/ajay4477-ai/Superstore-Sales-Analysis-Dashboard-Power-BI-Business-Insights-Project/blob/12d162acea52e109a5000f83f6846e30d1557b47/orders%20and%20shipping.png)
 
 
+**Tools & Technologies**
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Python (Pandas, NumPy)  
+- CSV Dataset  
