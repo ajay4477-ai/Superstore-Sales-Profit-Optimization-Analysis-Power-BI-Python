@@ -32,7 +32,7 @@ It is designed to help business stakeholders make data-driven decisions by ident
 
 
 **🖼️Dashboard Preview**
-1. *Sales Overview*
+1. *Store Overview*
 ![img_alt](https://github.com/ajay4477-ai/Superstore-Sales-Analysis-Dashboard-Power-BI-Business-Insights-Project/blob/42e8270ebcec3955d2c2f8087617b54e7821716b/store%20performance.png)
 
 
