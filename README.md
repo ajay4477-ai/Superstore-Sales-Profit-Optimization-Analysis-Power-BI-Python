@@ -94,5 +94,5 @@ The data was structured in a relational format to enable efficient analysis in P
 
 
 **For Use**<br>
-Download the store_analysis.pbix file from this repository.
+Download the store_analysis.pbix file from this repository.<br>
 For Report or Documentation download Superstore sales Documentation.
